@@ -1,0 +1,32 @@
+.slideshow-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.slideshow-container button {
+    width: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    transition: 1s;
+    border: none;
+    margin-top: 50px;
+}
+
+.slideshow-container img {
+    width: 50vw;
+    height: 500px;
+}
+
+
+.slideshow-container button:focus {
+    outline: none;
+}
+
+.slideshow-container button:hover {
+    background-color: white;
+    color: black;
+}
