@@ -1,7 +1,7 @@
 # react-slideshow-video
 a slideshow as a video package in reactjs and nextjs
 
-usage:
+# usage
 
 import SlideShow from '../components/SlideShow'
 
