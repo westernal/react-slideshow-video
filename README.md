@@ -2,7 +2,7 @@
 a slideshow as a video package in reactjs and nextjs
 
 # usage
-
+```
 import SlideShow from '../components/SlideShow'
 
 
@@ -27,6 +27,6 @@ export default function Home() {
 		
   )
 }
-
+```
 
 
